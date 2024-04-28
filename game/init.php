@@ -1,6 +1,6 @@
 <?php
 
-$site_adi 	= "https://agarprivateservers.org/";
+$site_adi 	= "https://agariowow.github.io/Agario/";
 
 $keykode = substr(md5($_SERVER['HTTP_USER_AGENT']),0,7);
 $keykode2 = substr(md5(md5($_SERVER['HTTP_USER_AGENT'])),0,7);
